@@ -6,6 +6,8 @@ import reportWebVitals from './reportWebVitals';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
 import Test from './components/Test';
+import ContactMe from './components/ContactMe';
+import Footer from './components/Footer';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -14,6 +16,8 @@ root.render(
     <Header />
     <AboutMe />
     <Test />
+    <ContactMe />
+    <Footer/>
   </React.StrictMode>
 );
 
