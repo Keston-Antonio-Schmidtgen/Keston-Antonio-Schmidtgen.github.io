@@ -4,12 +4,16 @@ import './index.css';
 import Navigation from './components/Navigation';
 import reportWebVitals from './reportWebVitals';
 import Header from './components/Header';
+import AboutMe from './components/AboutMe';
+import Test from './components/Test';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navigation />
     <Header />
+    <AboutMe />
+    <Test />
   </React.StrictMode>
 );
 
