@@ -3,11 +3,13 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import Navigation from './components/Navigation';
 import reportWebVitals from './reportWebVitals';
+import Header from './components/Header';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Navigation />
+    <Header />
   </React.StrictMode>
 );
 
