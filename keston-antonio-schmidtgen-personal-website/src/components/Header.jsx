@@ -16,7 +16,7 @@ export default function Header() {
                 <div class="absolute w-full p-12 opacity-100">
                     <img src="https://cdn.devdojo.com/images/august2021/background-patterns.png" class="" alt="" />
                 </div>
-                <img src="https://ik.imagekit.io/9l66xy6vz/WhatsApp_Image_2022-06-30_at_12.28.07_sfG8Wemnc.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1656585141447" class="w-full md:w-auto w-72 max-w-md max-w-sm ml-4 md:ml-20 lg:ml-0 xl:max-w-lg relative" alt="" />
+                <img src="https://ik.imagekit.io/9l66xy6vz/WhatsApp_Image_2022-06-30_at_12.28.07_sfG8Wemnc.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1656585141447" class="w-full md:w-auto w-72 max-w-md max-w-sm ml-4 md:ml-20 lg:ml-0 xl:max-w-xl relative" alt="" />
             </div>
       </div>
     </div>
