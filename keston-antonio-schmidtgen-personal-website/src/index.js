@@ -5,9 +5,10 @@ import Navigation from './components/Navigation';
 import reportWebVitals from './reportWebVitals';
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
-import Test from './components/Test';
+/* import Test from './components/Test'; */
 import ContactMe from './components/ContactMe';
 import Footer from './components/Footer';
+import Experience from './components/Experience';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,7 +16,8 @@ root.render(
     <Navigation />
     <Header />
     <AboutMe />
-    <Test />
+    {/* <Test /> */}
+    <Experience />
     <ContactMe />
     <Footer/>
   </React.StrictMode>
