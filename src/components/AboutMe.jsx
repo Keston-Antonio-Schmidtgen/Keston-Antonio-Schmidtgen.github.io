@@ -2,11 +2,11 @@ import React from "react";
 
 export default function AboutMe() {
   return (
-    <section className="relative w-full overflow-hidden bg-gray-900">
+    <section className="relative w-full overflow-hidden bg-gray-900 bg-opacity-95">
       <div className="relative px-8 pt-10 mx-auto max-w-7xl">
-        <div className="flex flex-col items-center justify-between w-full md:flex-row">
+        <div className="flex flex-col items-center justify-center w-full md:flex-row">
           <div className="">
-            <div className="px-3 text-sm font-medium py-1.5 rounded-md bg-gray-800 opacity-100 mb-10 text-gray-400" />
+            <div className="px-3 text-sm font-medium py-1.5 rounded-md bg-gray-700 opacity-100 mb-10 text-gray-400" />
             <h1 className=" text-center text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-gray-200 via-gray-50 to-gray-400">
               About Me!
             </h1>

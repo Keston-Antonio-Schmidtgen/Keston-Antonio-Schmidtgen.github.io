@@ -10,7 +10,7 @@ export default function Header() {
       <div className="">
         <div className="px-3 text-sm font-medium py-1.5 rounded-md bg-gray-800 opacity-100 mb-10 text-gray-400" />
         <h1 className="text-6xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-gray-200 via-gray-50 to-gray-400">Hi!<br />I'm Antonio<br /></h1>
-        <p className="text-lg text-gray-400 my-7">An aspiring Junior Frontend Developer.</p>
+        <p className="text-lg text-blue-300 my-7">An aspiring Junior Frontend Developer.</p>
       </div>
       <div class="relative flex items-center justify-center w-full md:w-1/2 md:pt-0">
                 <div class="absolute w-full p-12 opacity-100">
